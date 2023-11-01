@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
       body: Center(
         child: TextButton(
           onPressed: () => FlutterLocalNotification.showNotification(),
-          child: const Text("알림 보내기"),
+          child: const Text("덕썸니아"),
         ),
       ),
     );
